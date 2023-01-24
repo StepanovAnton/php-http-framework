@@ -1,0 +1,7 @@
+{
+    "name": "stepanovanton/php-http-framework",
+    "type": "project",
+    "require": {
+        "php": "^8.1"
+    }
+}
